@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.38804c9a.chunk.css",
+    "main.js": "./static/js/main.a1e05f90.chunk.js",
+    "main.js.map": "./static/js/main.a1e05f90.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
+    "static/js/2.d04d6b77.chunk.js": "./static/js/2.d04d6b77.chunk.js",
+    "static/js/2.d04d6b77.chunk.js.map": "./static/js/2.d04d6b77.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.000e947d104400483253cd5e16e225bd.js": "./precache-manifest.000e947d104400483253cd5e16e225bd.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.38804c9a.chunk.css.map": "./static/css/main.38804c9a.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/adhiambo.jpg": "./static/media/adhiambo.49325fec.jpg",
+    "static/media/daisy.jpg": "./static/media/daisy.fb1f0cdb.jpg",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/lopez.jpg": "./static/media/lopez.3ed41e04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb7e7b0c.js",
+    "static/js/2.d04d6b77.chunk.js",
+    "static/css/main.38804c9a.chunk.css",
+    "static/js/main.a1e05f90.chunk.js"
+  ]
+}
